@@ -11,6 +11,6 @@ public class IntroduceMyself {
 		System.out.println("이름 : " + name);
 		System.out.println("생년월일 : " + dateOfBirth);
 		System.out.println("취미 : " + hobby);
-    System.out.println("개인블로그 :" + hobby);
+    System.out.println("개인블로그 :" + url);
 	}
 }
